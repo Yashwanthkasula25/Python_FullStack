@@ -33,7 +33,9 @@ Blog/CMS systems
 Authentication systems
 
 2️⃣ Git – 10 Common Commands
-<img width="544" height="435" alt="image" src="https://github.com/user-attachments/assets/f025cd4a-fbc7-4881-989e-7919d0a75f2d" />
+
+
+<img width="344" height="335" alt="image" src="https://github.com/user-attachments/assets/f025cd4a-fbc7-4881-989e-7919d0a75f2d" />
 
 
 3️⃣ What is GitHub?
