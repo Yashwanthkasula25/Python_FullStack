@@ -1,4 +1,5 @@
 📘 Daily Homework
+
 1️⃣ What are the web applications used in Python?
 
 Python provides several frameworks for building web applications:
