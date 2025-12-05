@@ -33,17 +33,8 @@ Blog/CMS systems
 Authentication systems
 
 2️⃣ Git – 10 Common Commands
-git init
-git clone <repo-url>
-git status
-git add .
-git add <filename>
-git commit -m "message"
-git push origin main
-git pull
-git branch
-git checkout <branch>
-git merge <branch>
+<img width="544" height="435" alt="image" src="https://github.com/user-attachments/assets/f025cd4a-fbc7-4881-989e-7919d0a75f2d" />
+
 
 3️⃣ What is GitHub?
 
