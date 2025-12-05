@@ -183,3 +183,128 @@ Examples
 SECRET_KEY=abc123
 DATABASE_URL=mysql://root:pass@localhost/db
 API_KEY=xyz789
+
+1️⃣0️⃣ What is the difference between compilation and interpretation?
+Compilation
+
+Converts the entire source code into machine code at once
+
+Faster execution
+
+Errors shown only after compilation
+
+Examples: C, C++, Java
+
+Interpretation
+
+Converts and executes code line-by-line
+
+Slower execution
+
+Errors shown immediately
+
+Examples: Python, JavaScript
+
+1️⃣1️⃣ What is web scraping?
+
+Web scraping is the automated process of extracting data from websites.
+
+Uses
+
+Data collection
+
+Market research
+
+Price monitoring
+
+Automation
+
+Python libraries
+
+BeautifulSoup
+
+Scrapy
+
+Selenium
+
+Requests
+
+1️⃣2️⃣ What is the difference between ChatGPT, Gemini, Claude, and DeepSeek?
+Model	Created By	Strengths
+ChatGPT	OpenAI	Great coding, reasoning, explanations
+Gemini	Google	Strong in search, multimodal tasks
+Claude	Anthropic	Best for writing, reasoning, safety
+DeepSeek	DeepSeek AI	Fast, efficient, cost-friendly
+
+1️⃣3️⃣ What is REST API?
+
+REST API (Representational State Transfer) is an architecture for building web services that use standard HTTP methods.
+
+Key concepts
+
+Stateless
+
+Uses GET, POST, PUT, DELETE
+
+Sends/receives JSON or XML
+
+Client–server separation
+
+1️⃣4️⃣ What is an OS?
+
+An Operating System (OS) is a system software that manages hardware and provides services for applications.
+
+Examples
+
+Windows
+
+Linux
+
+macOS
+
+Android
+
+iOS
+
+Functions
+
+Memory & process management
+
+File handling
+
+Device & driver management
+
+Security & user control
+
+1️⃣5️⃣ What are the features of Python?
+
+Easy to learn
+
+Interpreted & dynamically typed
+
+Large standard library
+
+Cross-platform
+
+Supports OOP & functional programming
+
+Huge community support
+
+Used in AI, ML, automation, web development, data science
+
+1️⃣6️⃣ What is TDD & BDD?
+TDD (Test-Driven Development)
+
+Write tests before writing code
+
+Cycle: Red → Green → Refactor
+
+Ensures high-quality, tested code
+
+BDD (Behavior-Driven Development)
+
+Focuses on user behavior
+
+Uses natural language (Given-When-Then)
+
+Improves communication between dev, QA, business teams
